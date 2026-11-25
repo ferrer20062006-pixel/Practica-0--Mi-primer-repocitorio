@@ -1,0 +1,3 @@
+Nombre | Correo | Usuario de GitHub
+Jose Luis Ferrer Jimenez | ferrer20062006@gmail.com | ferrer20062006-pixel
+Iarael Leon Lopez | 2024148022@uteq.edu.mx | 2024148022-lang
